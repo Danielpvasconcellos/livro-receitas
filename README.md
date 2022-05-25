@@ -3,3 +3,4 @@
   - Strogonoff de frango
   - Pavê
   - Mousse
+  - Carne de Panela
